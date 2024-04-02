@@ -1,0 +1,35 @@
+original_id,aug_id,country_name,country_code,map_coordinates,url,region_name,region_code,title,description,status,stages,date,procurementMethod,budget,currency,buyer,sector,subsector,location
+ ANX2021-002,NaN,NaN,NaN,NaN,NaN,NaN,NaN, Sunset Avenue Apartments,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN, Multi-Family Residential , APN: 0037-030-200
+ DR2020-004,NaN,NaN,NaN,NaN,NaN,NaN,NaN, Village IIA,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN, Single-Family Subdivision, APN: 0170-050-090
+ DR2021-013,NaN,NaN,NaN,NaN,NaN,NaN,NaN, Green Valley 3,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN, Multi-Family Residential," 4840 Business Center Dr. 
+(APN: 0148-540-350) "
+ DR2021-016,NaN,NaN,NaN,NaN,NaN,NaN,NaN, 80-12 Industrial Center ,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN, Industrial," 300 Chadbourne Rd. 
+(APN: 0028-750-290)"
+ DR2021-017,NaN,NaN,NaN,NaN,NaN,NaN,NaN, Sunset Avenue Apartments ,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN, Multi-Family Residential , APN: 0037-030-200
+ DR2021-020,NaN,NaN,NaN,NaN,NaN,NaN,NaN, Planning Area 1 Development 1: Townhomes,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN, Multi-Family Residential," 5005 Peabody Rd. 
+(APN: 0166-110-120) "
+ DR2021-021,NaN,NaN,NaN,NaN,NaN,NaN,NaN, West Texas Street Mixed-Use,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN, Mixed-Use ,   1348 W Texas St.(APN: 0031-160-150) 
+ DR2022-003,NaN,NaN,NaN,NaN,NaN,NaN,NaN, Train Station Specific Plan Planning Area 1 MPUD,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN, Community Design Plan," 5005 Peabody Rd. 
+(APN: 0166-110-120) "
+ DR2022-004,NaN,NaN,NaN,NaN,NaN,NaN,NaN, Planning Area 6 ,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN, Community Design Plan, APN: 0166-040-130
+ DR2022-005,NaN,NaN,NaN,NaN,NaN,NaN,NaN, Raising Cane's  ,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,"Commercial, Drive-Through"," 1420 Travis Blvd.
+(APN: 0033-240-030)  "
+ DR2023-002,NaN,NaN,NaN,NaN,NaN,NaN,NaN,Aurora at Green Valley ,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN, Mixed-Use, 5000 Wiseman Way (APN: 0148-280-520)
+ GPA2021-001,NaN,NaN,NaN,NaN,NaN,NaN,NaN, Green Valley 3 Apartments,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN, Multi-Family Residential ," 4840 Business Center Dr.
+(APN: 0148-540-350) "
+ GPA2021-003,NaN,NaN,NaN,NaN,NaN,NaN,NaN, 80-12 Industrial Center,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN," Industrial, Mini-Storage"," 300 Chadbourne Rd.
+(APN: 0028-750-290) "
+ GPA2022-001,NaN,NaN,NaN,NaN,NaN,NaN,NaN, Zone Change from CO-NC to IBP,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN, Commercial,5253 Business Center Dr. (APN: 0148-270-220) 
+ MD2021-011,NaN,NaN,NaN,NaN,NaN,NaN,NaN, Edison RV Storage,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN, Industrial," 490 Edison Ct. 
+(APN: 0180-130-110) "
+ MD2022-002,NaN,NaN,NaN,NaN,NaN,NaN,NaN, Metal Commercial Building ,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN, Commercial ," 1071 Horizon Dr. 
+(APN: 0168-320-290)"
+ MD2023-004,NaN,NaN,NaN,NaN,NaN,NaN,NaN, Fairfield Christian Reformed Chuch,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN, Commercial, 300 Marigold Dr. (APN: 0168-051-200)
+ UP2021-002,NaN,NaN,NaN,NaN,NaN,NaN,NaN, Edison RV Storage,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN, Industrial,"490 Edison Ct. 
+(APN: 0180-130-110) "
+ UP2022-002,NaN,NaN,NaN,NaN,NaN,NaN,NaN, Raising Cane's ,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN," Commercial, Drive-Through"," 1420 Travis Blvd. 
+ (APN: 0033-240-030)  "
+ UP2022-004,NaN,NaN,NaN,NaN,NaN,NaN,NaN, Airsoft Target Game in Mall,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN," Commercial, Commercial Recreation"," 1350 Travis Blvd.  
+(APN: 0033-240-130)"
+ UP2022-005,NaN,NaN,NaN,NaN,NaN,NaN,NaN, Hernandez Produce and Meat Market ,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN, Commercial ," 870 East Travis Blvd. #10-I
+(APN: 0037-390-080) "
